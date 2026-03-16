@@ -1,3 +1,6 @@
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-Language-blue)
+![Status](https://img.shields.io/badge/status-active-success)
 # STIConf Bridging Africa
 
 STIConf Bridging Africa is a digital platform created to support the organization and promotion of the STIConf conference initiative.
